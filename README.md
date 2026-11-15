@@ -489,12 +489,7 @@ The response confirms that the Express server is running successfully.
 
 > Add your Postman screenshot here.
 
-```text
 <img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/90cac88e-3fc1-402d-ba49-c3cc09886bcd" />
-
-```
-
----
 
 # 12. Guest API Testing
 
@@ -524,12 +519,10 @@ POST /guests
 
 > Add Postman screenshot here.
 
-```text
+
 <img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/b2b421de-1d32-4a66-9d6c-aafb046ad09a" />
 
-```
 
----
 
 ## Test 3 – Get All Guests
 
@@ -549,12 +542,10 @@ GET /guests
 
 > Add Postman screenshot here.
 
-```text
+
 <img width="1917" height="1011" alt="image" src="https://github.com/user-attachments/assets/53697f15-4254-4058-a0ce-b63ab9fb10de" />
 
-```
 
----
 
 ## Test 4 – Get Guest by ID
 
@@ -574,12 +565,10 @@ GET /guests/1
 
 > Add Postman screenshot here.
 
-```text
+
 <img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/964e2bfc-2877-44c7-a4e4-1daf695d1ff5" />
 
-```
 
----
 
 # 13. Game CRUD Testing
 
@@ -610,12 +599,8 @@ POST /games
 
 > Add Postman screenshot here.
 
-```text
 <img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/83fce54e-bf7a-4952-a58a-e6678563e6f0" />
 
-```
-
----
 
 ## Test 6 – Get All Games
 
@@ -635,12 +620,9 @@ GET /games
 
 > Add Postman screenshot here.
 
-```text
+
 <img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/56c37ef7-ad5b-4346-b989-75d88c0e17b3" />
 
-```
-
----
 
 ## Test 7 – Get Game by ID
 
@@ -660,12 +642,9 @@ GET /games/1
 
 > Add Postman screenshot here.
 
-```text
+
 <img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/38d0fc3c-6474-4203-95e0-396052f5808c" />
 
-```
-
----
 
 ## Test 8 – Update Game
 
@@ -694,12 +673,9 @@ PUT /games/1
 
 > Add Postman screenshot here.
 
-```text
+
 <img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/d8bcf6e4-26b4-4e44-88ab-6553f062062b" />
 
-```
-
----
 
 ## Test 9 – Delete Game
 
@@ -719,12 +695,10 @@ DELETE /games/2
 
 > Add Postman screenshot here.
 
-```text
+
 <img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/f4769e4f-665b-43ed-8ba2-6ac632d6f767" />
 
-```
 
----
 
 # 14. Search Testing
 
@@ -748,12 +722,9 @@ The API should return games that support 2 players.
 
 > Add Postman screenshot here.
 
-```text
+
 <img width="1917" height="1022" alt="image" src="https://github.com/user-attachments/assets/bfc84e21-21b9-474e-af19-85e2635315fe" />
 
-```
-
----
 
 ## Test 11 – Search Games by Name
 
@@ -775,12 +746,8 @@ The API should return matching games.
 
 > Add Postman screenshot here.
 
-```text
 <img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/8bc10656-4b21-4982-8b75-44cb7190f085" />
 
-```
-
----
 
 # 15. Validation Testing
 
@@ -810,12 +777,10 @@ with a clear validation message.
 
 > Add Postman screenshot here.
 
-```text
+
 <img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/ef16547f-30d3-4734-8d2f-cc629d739f76" />
 
-```
 
----
 
 ## Test 13 – Invalid Players
 
@@ -844,12 +809,9 @@ POST /games
 
 > Add Postman screenshot here.
 
-```text
 <img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/712a5d8f-c9a5-45e0-af76-753a6f6e233c" />
 
-```
 
----
 
 # 16. Booking Testing
 
@@ -880,12 +842,9 @@ POST /bookings
 
 > Add Postman screenshot here.
 
-```text
+
 <img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/72d6af96-8293-4c29-9c57-b91abfedefcb" />
 
-```
-
----
 
 ## Test 15 – Get Bookings with JOIN
 
@@ -912,12 +871,10 @@ The response should contain:
 
 > Add Postman screenshot here.
 
-```text
+
 <img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/401a68c9-e87f-40a9-b357-d0b0fe430f84" />
 
-```
 
----
 
 # 17. Return Flow Testing
 
@@ -950,12 +907,10 @@ Example response:
 
 > Add Postman screenshot here.
 
-```text
+
 <img width="1917" height="985" alt="image" src="https://github.com/user-attachments/assets/9e936be7-0bef-49f1-83d7-7acaa6d61f56" />
 
-```
 
----
 
 ## Test 17 – Return the Same Booking Again
 
@@ -985,12 +940,10 @@ This confirms that the system prevents a booking from being returned more than o
 
 > Add Postman screenshot here.
 
-```text
+
 <img width="1917" height="1005" alt="image" src="https://github.com/user-attachments/assets/dcbd619b-637a-4d79-8825-d6e89c2e8014" />
 
-```
 
----
 
 # 18. Guest History Testing
 
@@ -1014,12 +967,9 @@ The returned booking should be displayed in the guest's history.
 
 > Add Postman screenshot here.
 
-```text
 <img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/dba352b2-6d92-487c-9cdc-d106df5ac518" />
 
-```
 
----
 
 # 19. Return Flow Summary
 
