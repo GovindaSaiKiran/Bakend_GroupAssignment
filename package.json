@@ -1,0 +1,24 @@
+{
+  "name": "booknook-cafe",
+  "version": "1.0.0",
+  "description": "Backend system for BookNook Cafe board-game café",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node test/api.test.js"
+  },
+  "keywords": [
+    "express",
+    "sqlite",
+    "rest-api",
+    "backend"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.7"
+  }
+}
+
