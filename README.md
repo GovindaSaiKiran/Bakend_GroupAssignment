@@ -490,7 +490,8 @@ The response confirms that the Express server is running successfully.
 > Add your Postman screenshot here.
 
 ```text
-[POSTMAN SCREENSHOT – HEALTH CHECK]
+<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/90cac88e-3fc1-402d-ba49-c3cc09886bcd" />
+
 ```
 
 ---
@@ -524,7 +525,8 @@ POST /guests
 > Add Postman screenshot here.
 
 ```text
-[POSTMAN SCREENSHOT – CREATE GUEST]
+<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/b2b421de-1d32-4a66-9d6c-aafb046ad09a" />
+
 ```
 
 ---
@@ -548,7 +550,8 @@ GET /guests
 > Add Postman screenshot here.
 
 ```text
-[POSTMAN SCREENSHOT – GET GUESTS]
+<img width="1917" height="1011" alt="image" src="https://github.com/user-attachments/assets/53697f15-4254-4058-a0ce-b63ab9fb10de" />
+
 ```
 
 ---
@@ -572,7 +575,8 @@ GET /guests/1
 > Add Postman screenshot here.
 
 ```text
-[POSTMAN SCREENSHOT – GET GUEST BY ID]
+<img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/964e2bfc-2877-44c7-a4e4-1daf695d1ff5" />
+
 ```
 
 ---
@@ -607,7 +611,8 @@ POST /games
 > Add Postman screenshot here.
 
 ```text
-[POSTMAN SCREENSHOT – CREATE GAME]
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/83fce54e-bf7a-4952-a58a-e6678563e6f0" />
+
 ```
 
 ---
@@ -631,7 +636,8 @@ GET /games
 > Add Postman screenshot here.
 
 ```text
-[POSTMAN SCREENSHOT – GET ALL GAMES]
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/56c37ef7-ad5b-4346-b989-75d88c0e17b3" />
+
 ```
 
 ---
@@ -655,7 +661,8 @@ GET /games/1
 > Add Postman screenshot here.
 
 ```text
-[POSTMAN SCREENSHOT – GET GAME]
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/38d0fc3c-6474-4203-95e0-396052f5808c" />
+
 ```
 
 ---
@@ -688,7 +695,8 @@ PUT /games/1
 > Add Postman screenshot here.
 
 ```text
-[POSTMAN SCREENSHOT – UPDATE GAME]
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/d8bcf6e4-26b4-4e44-88ab-6553f062062b" />
+
 ```
 
 ---
@@ -712,7 +720,8 @@ DELETE /games/2
 > Add Postman screenshot here.
 
 ```text
-[POSTMAN SCREENSHOT – DELETE GAME]
+<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/f4769e4f-665b-43ed-8ba2-6ac632d6f767" />
+
 ```
 
 ---
@@ -740,7 +749,8 @@ The API should return games that support 2 players.
 > Add Postman screenshot here.
 
 ```text
-[POSTMAN SCREENSHOT – SEARCH BY PLAYERS]
+<img width="1917" height="1022" alt="image" src="https://github.com/user-attachments/assets/bfc84e21-21b9-474e-af19-85e2635315fe" />
+
 ```
 
 ---
@@ -766,7 +776,8 @@ The API should return matching games.
 > Add Postman screenshot here.
 
 ```text
-[POSTMAN SCREENSHOT – SEARCH BY NAME]
+<img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/8bc10656-4b21-4982-8b75-44cb7190f085" />
+
 ```
 
 ---
@@ -800,7 +811,8 @@ with a clear validation message.
 > Add Postman screenshot here.
 
 ```text
-[POSTMAN SCREENSHOT – INVALID GAME]
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/ef16547f-30d3-4734-8d2f-cc629d739f76" />
+
 ```
 
 ---
@@ -833,7 +845,8 @@ POST /games
 > Add Postman screenshot here.
 
 ```text
-[POSTMAN SCREENSHOT – INVALID PLAYERS]
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/712a5d8f-c9a5-45e0-af76-753a6f6e233c" />
+
 ```
 
 ---
@@ -868,7 +881,8 @@ POST /bookings
 > Add Postman screenshot here.
 
 ```text
-[POSTMAN SCREENSHOT – CREATE BOOKING]
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/72d6af96-8293-4c29-9c57-b91abfedefcb" />
+
 ```
 
 ---
@@ -899,7 +913,8 @@ The response should contain:
 > Add Postman screenshot here.
 
 ```text
-[POSTMAN SCREENSHOT – BOOKINGS JOIN]
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/401a68c9-e87f-40a9-b357-d0b0fe430f84" />
+
 ```
 
 ---
@@ -936,7 +951,8 @@ Example response:
 > Add Postman screenshot here.
 
 ```text
-[POSTMAN SCREENSHOT – FIRST RETURN – 200 OK]
+<img width="1917" height="985" alt="image" src="https://github.com/user-attachments/assets/9e936be7-0bef-49f1-83d7-7acaa6d61f56" />
+
 ```
 
 ---
@@ -970,7 +986,8 @@ This confirms that the system prevents a booking from being returned more than o
 > Add Postman screenshot here.
 
 ```text
-[POSTMAN SCREENSHOT – SECOND RETURN – 409 CONFLICT]
+<img width="1917" height="1005" alt="image" src="https://github.com/user-attachments/assets/dcbd619b-637a-4d79-8825-d6e89c2e8014" />
+
 ```
 
 ---
@@ -998,7 +1015,8 @@ The returned booking should be displayed in the guest's history.
 > Add Postman screenshot here.
 
 ```text
-[POSTMAN SCREENSHOT – GUEST RETURN HISTORY]
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/dba352b2-6d92-487c-9cdc-d106df5ac518" />
+
 ```
 
 ---
